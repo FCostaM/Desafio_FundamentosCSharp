@@ -29,7 +29,7 @@ public class Exercicio5
 
     public static bool ValidaPlaca(string placa)
     {
-        //Valida se a placa informada tem 7 caracteres (valores nulos também entrerão nessa condição)
+        //Valida se a placa informada tem 7 caracteres (valores nulos também entrarão nessa condição)
         if (placa.Length != 7)
         {
             return false;
@@ -45,7 +45,7 @@ public class Exercicio5
                 }
             }
 
-            //Valida se ss quatro últimos caracteres são números
+            //Valida se os quatro últimos caracteres são números
             for (int i = 3; i < 7; i++)
             {
                 if (!char.IsDigit(placa[i]))
