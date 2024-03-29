@@ -1,5 +1,5 @@
-# Desafio_FundamentosCSharp
-Resolução do desafio proposto no módulo "Fundamentos C#" do curso de C# ministrado pela empresa Rocketseat.
+# Desafio prático - Fundamentos C#
+Resolução do desafio prático proposto no módulo "Fundamentos C#" do curso de C# ministrado pela empresa Rocketseat.
 
 ### Exercícios práticos
 
